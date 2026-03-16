@@ -1,12 +1,9 @@
----
-
  🚀 CI/CD Pipeline for Python Application
 
 `https://img.shields.io/badge/build-passing-brightgreen`  
 `https://img.shields.io/badge/python-3.10-blue`  
 `https://img.shields.io/badge/license-MIT-yellow`
 
----
 
 📌 Project Overview
 This project demonstrates the implementation of a **Continuous Integration and Continuous Deployment (CI/CD) pipeline** for a Python-based application.  
@@ -18,7 +15,6 @@ The pipeline automates key stages of the software development lifecycle includin
 
 The objective is to showcase modern **DevOps practices** to improve code quality, reduce manual effort, and ensure reliable software delivery.
 
----
 
 ✨ Key Features
 - 🔄 Automated CI/CD workflow using **GitHub Actions**  
@@ -27,7 +23,6 @@ The objective is to showcase modern **DevOps practices** to improve code quality
 - 📂 Organized Python project structure  
 - 🤖 Machine Learning experiment using **Random Forest Classifier**
 
----
 
 🔑 CI/CD Concepts Explained
 
@@ -47,7 +42,6 @@ Extends CI by automatically preparing the application for deployment after succe
 - Application execution  
 - Build validation  
 
----
 
 📂 Project Structure
 ```plaintext
@@ -67,7 +61,7 @@ CI-CD-pipeline
 └── README.md                   # Documentation
 ```
 
----
+
 
 🛠️ Technologies Used
 
@@ -78,7 +72,6 @@ CI-CD-pipeline
 | **GitHub Actions**| CI/CD pipeline automation              |
 | **Machine Learning** | Random Forest Classifier experiment |
 
----
 
 ⚙️ CI/CD Workflow
 1. **Code Push Trigger** → Pipeline starts automatically.  
@@ -87,7 +80,6 @@ CI-CD-pipeline
 4. **Application Execution** → Runs `main.py` to verify correctness.  
 5. **Build Validation** → Confirms successful execution.  
 
----
 
 📊 Machine Learning Component
 The repository includes an experimental notebook:  
@@ -95,7 +87,6 @@ The repository includes an experimental notebook:
 - Demonstrates **Random Forest Classifier** for classification tasks.  
 - Combines multiple decision trees to improve accuracy and reduce overfitting.  
 
----
 
 ▶️ How to Run Locally
 ```bash
@@ -112,8 +103,6 @@ pip install -r requirements.txt
 python main.py
 ```
 
----
-
 🌟 Benefits
 - Hands-on CI/CD pipeline implementation  
 - Practical experience with **GitHub Actions**  
@@ -127,7 +116,6 @@ Relevant for roles like:
 - DevOps Engineer  
 - Data Analyst  
 
----
 
 🔮 Future Improvements
 - 🧪 Add automated unit testing  
@@ -135,5 +123,4 @@ Relevant for roles like:
 - ☁️ Automated deployment to cloud platforms  
 - 📈 Integration with model monitoring tools  
 
----
 
