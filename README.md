@@ -1,11 +1,11 @@
- 🚀 CI/CD Pipeline for Python Application
+## 🚀 CI/CD Pipeline for Python Application
 
 `https://img.shields.io/badge/build-passing-brightgreen`  
 `https://img.shields.io/badge/python-3.10-blue`  
 `https://img.shields.io/badge/license-MIT-yellow`
 
 
-📌 Project Overview
+## 📌 Project Overview
 This project demonstrates the implementation of a **Continuous Integration and Continuous Deployment (CI/CD) pipeline** for a Python-based application.  
 The pipeline automates key stages of the software development lifecycle including:
 
@@ -16,7 +16,7 @@ The pipeline automates key stages of the software development lifecycle includin
 The objective is to showcase modern **DevOps practices** to improve code quality, reduce manual effort, and ensure reliable software delivery.
 
 
-✨ Key Features
+## ✨ Key Features
 - 🔄 Automated CI/CD workflow using **GitHub Actions**  
 - 📦 Automatic dependency installation  
 - ✅ Code validation on every repository push  
@@ -24,18 +24,18 @@ The objective is to showcase modern **DevOps practices** to improve code quality
 - 🤖 Machine Learning experiment using **Random Forest Classifier**
 
 
-🔑 CI/CD Concepts Explained
+## 🔑 CI/CD Concepts Explained
 
-🔹 Continuous Integration (CI)
+## 🔹 Continuous Integration (CI)
 Developers frequently integrate their code into a shared repository. Each integration triggers an automated workflow that:
 - Installs dependencies  
 - Builds the application  
 - Executes scripts/tests  
 - Detects errors early  
 
-➡️ Helps maintain **code stability and reliability**.
+## ➡️ Helps maintain **code stability and reliability**.
 
-🔹 Continuous Deployment (CD)
+## 🔹 Continuous Deployment (CD)
 Extends CI by automatically preparing the application for deployment after successful validation:
 - Environment setup  
 - Dependency installation  
@@ -43,7 +43,7 @@ Extends CI by automatically preparing the application for deployment after succe
 - Build validation  
 
 
-📂 Project Structure
+## 📂 Project Structure
 ```plaintext
 CI-CD-pipeline
 │
@@ -63,7 +63,7 @@ CI-CD-pipeline
 
 
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 | Technology        | Purpose                                |
 |-------------------|----------------------------------------|
@@ -73,7 +73,7 @@ CI-CD-pipeline
 | **Machine Learning** | Random Forest Classifier experiment |
 
 
-⚙️ CI/CD Workflow
+## ⚙️ CI/CD Workflow
 1. **Code Push Trigger** → Pipeline starts automatically.  
 2. **Environment Setup** → Configures Python version.  
 3. **Dependency Installation** → Installs libraries from `requirements.txt`.  
@@ -81,14 +81,14 @@ CI-CD-pipeline
 5. **Build Validation** → Confirms successful execution.  
 
 
-📊 Machine Learning Component
+## 📊 Machine Learning Component
 The repository includes an experimental notebook:  
 **`randomforestclassifier.ipynb`**  
 - Demonstrates **Random Forest Classifier** for classification tasks.  
 - Combines multiple decision trees to improve accuracy and reduce overfitting.  
 
 
-▶️ How to Run Locally
+## ▶️ How to Run Locally
 ```bash
 # 1. Clone the repository
 git clone https://github.com/your-username/CI-CD-pipeline.git
@@ -103,7 +103,7 @@ pip install -r requirements.txt
 python main.py
 ```
 
-🌟 Benefits
+## 🌟 Benefits
 - Hands-on CI/CD pipeline implementation  
 - Practical experience with **GitHub Actions**  
 - Knowledge of Python project structuring  
@@ -117,7 +117,7 @@ Relevant for roles like:
 - Data Analyst  
 
 
-🔮 Future Improvements
+## 🔮 Future Improvements
 - 🧪 Add automated unit testing  
 - 🐳 Containerization with Docker  
 - ☁️ Automated deployment to cloud platforms  
