@@ -1,9 +1,8 @@
 ## 🚀 CI/CD Pipeline for Python Application
 
-`https://img.shields.io/badge/build-passing-brightgreen`  
-`https://img.shields.io/badge/python-3.10-blue`  
-`https://img.shields.io/badge/license-MIT-yellow`
-
+![Build](https://img.shields.io/badge/build-passing-brightgreen)
+![Python](https://img.shields.io/badge/python-3.10-blue)
+![License](https://img.shields.io/badge/license-MIT-yellow)
 
 ## 📌 Project Overview
 This project demonstrates the implementation of a **Continuous Integration and Continuous Deployment (CI/CD) pipeline** for a Python-based application.  
